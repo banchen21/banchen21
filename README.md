@@ -65,6 +65,6 @@ Dual-UI shop & pawnshop system for Minecraft Bedrock.
 
 <div align="center">
 
-🌐 [73Info.cn](https://73info.cn) — 柒叁信息科技
+🌐 [73Info.cn](https://73info.cn) — 柒叁信息
 
 </div>
