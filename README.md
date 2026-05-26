@@ -57,8 +57,13 @@ Dual-UI shop & pawnshop system for Minecraft Bedrock.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=banchen21&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banchen21&layout=compact&hide_border=true&langs_count=8&hide=html,css" />
+
+| | |
+|---|---|
+| **Public Repos** | 65+ |
+| **Top Languages** | Rust · TypeScript · Java · Python |
+| **Focus** | AI Agents · Minecraft · Embedded (ESP32) |
+
 </div>
 
 ---
